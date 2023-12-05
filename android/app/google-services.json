@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017058131677",
+    "project_id": "wells-app-614df",
+    "storage_bucket": "wells-app-614df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017058131677:android:ae4f33bfc3b1a54d4fe534",
+        "android_client_info": {
+          "package_name": "com.example.wells"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP2yWIn3zjcHkXajbUI6UZjy-TPLFR2OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
